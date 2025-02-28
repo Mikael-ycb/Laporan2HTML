@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(205, 0, 0);
+}
+
+p {
+    color: rgb(66, 21, 139);
+}
+
+body{
+    background-image: url(../background.jpg);
+}
