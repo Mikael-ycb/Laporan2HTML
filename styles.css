@@ -1,11 +1,18 @@
 h1 {
-    color: rgb(205, 0, 0);
+    color: rgb(122, 15, 171);
+    font-size: times;
+    font-variant: small-caps;
 }
 
 p {
     color: rgb(66, 21, 139);
 }
-
+img{
+    height: 300;
+    width: 300;
+}
 body{
+    font-family: times;
+
     background-image: url(../background.jpg);
 }
