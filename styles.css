@@ -16,3 +16,8 @@ body{
 
     background-image: url(../background.jpg);
 }
+
+ol li{
+    color: rgb(122, 15, 171);
+
+}
